@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stone_ui_0: 3912717251897238115
+      stone_ui_1: -5458998792034777935
+      stone_ui_10: 1128388433442467258
+      stone_ui_11: 583483900183343396
+      stone_ui_12: -3032858872958847168
+      stone_ui_13: 4990913758943338698
+      stone_ui_14: -3722381853384111210
+      stone_ui_15: 391900909275840011
+      stone_ui_16: -8296996824046010367
+      stone_ui_17: 8064579266523698953
+      stone_ui_18: 2501418258093409279
+      stone_ui_19: 5055470913077026372
+      stone_ui_2: 6817547762235888402
+      stone_ui_20: 2900979459544315734
+      stone_ui_21: -8052624869529709279
+      stone_ui_3: 4421706734052839958
+      stone_ui_4: -5184434697974043443
+      stone_ui_5: 5172878309295361603
+      stone_ui_6: -1177088626041710315
+      stone_ui_7: 9071732282589625647
+      stone_ui_8: 7672853584563887447
+      stone_ui_9: 3848940833297584392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
